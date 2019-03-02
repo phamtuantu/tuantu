@@ -1,0 +1,41 @@
+.navs{
+    text-transform : uppercase;
+    columns: #221f1f;
+    font-weight:bold;
+    color: black;
+}
+
+.left{
+    align-self: center;
+
+}
+
+.left a{
+    text-align: left;
+    color: black;
+    font-size: 25px;
+}
+
+
+
+.right{
+    text-align: center;
+    align-self:center;
+}
+
+
+.right div div a{
+    color: black;
+}
+
+.right div div a:hover{
+    color: #19BA9A;
+}
+
+.right div.tag {
+padding: 0px;
+margin: 0px;
+margin-bottom: 10px;
+margin-top: 10px;
+
+}

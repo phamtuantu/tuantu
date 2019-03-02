@@ -1,0 +1,59 @@
+
+table{
+    border: 1px ;
+    border-radius: 15px;
+    width: 500px;
+    margin: auto;
+    margin-top: 25px;
+    
+}
+
+.page-title{
+    background-color: #19BA9A;
+    text-align: center;
+    text-transform : uppercase;
+    color: #F0F0F0;
+    padding-top:20px; 
+    padding-bottom:20px;
+}
+
+
+.form-group{
+    padding: 15px;
+}
+
+.button-click{
+    text-align: center;
+    padding-bottom: 15px;
+    color: whitesmoke;
+    
+}
+
+.button-click .btn{
+    background-color: #19BA9A;
+    float: left;
+}
+
+.button-signup{
+float: right;
+text-align: top;
+margin-top:-10px;
+
+}
+
+.button-signup a:hover{
+    text-decoration: none;
+}
+
+.button{
+    margin-left:25px;
+    margin-right:25px;
+    
+    
+}
+
+.button-click .btn:hover{
+background-color: #524949;
+color: whitesmoke;
+
+}

@@ -1,0 +1,45 @@
+.full-background{
+    background-color: white;
+    padding-top: 8px;
+    padding-bottom: 0;
+    border-bottom: 1px solid rgb(196, 233, 219);
+}
+.row{
+    background-color: white;
+    color: black;
+    margin: right;
+    font-size: 13px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+.lefthead ul li a{
+        text-decoration: none;
+        color: black;
+        margin: 0;
+}
+.lefthead ul li a:hover{
+    color: rgb(31, 231, 221);
+    text-decoration: none;
+}
+.righthead ul li a{
+    text-decoration: none;
+        color: black;
+        margin: 0;
+
+}
+.righthead ul li a:hover{
+    color: rgb(31, 231, 221);
+    text-decoration: none;
+}
+
+
+.lefthead{
+    float: left;
+}
+.righthead{
+    float: right;
+}
